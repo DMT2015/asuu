@@ -1,0 +1,16 @@
+public class Jurnal8 {
+
+    public static void main(String[] args) {
+        // TODO code application logic here
+   
+       int a = 7; 
+       int c = 1;
+        for (int b = 1 ; b <= a; b++) {
+            c = c*b; 
+       }
+        System.out.println(c);
+        
+        
+    }
+    
+}
